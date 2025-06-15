@@ -3,7 +3,7 @@ I'm a passionate software developer building cool real-world apps.
 
 Projects
 - [ObjectID Image Recognition App](https://github.com/Hussein-dev256/ROI-Based-Image-ID-Android-App)
-- [My Personal Portfolio Website](https://Code.By-Hussein.github.io/portfolio)
+- [My Personal Portfolio Website](https://github.com/Hussein-dev256/portfolio-website)
 Currently Learning
 - Full-stack development
 - Web security & Bug Bounty
