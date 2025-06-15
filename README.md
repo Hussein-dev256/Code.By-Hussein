@@ -2,7 +2,7 @@ Hi, I'm Hussein,
 I'm a passionate software developer building cool real-world apps.
 
 Projects
-- [ObjectID Image Recognition App](https://github.com/Code.By-Hussein/ObjectID)
+- [ObjectID Image Recognition App](https://github.com/Hussein-dev256/ROI-Based-Image-ID-Android-App)
 - [My Personal Portfolio Website](https://Code.By-Hussein.github.io/portfolio)
 Currently Learning
 - Full-stack development
