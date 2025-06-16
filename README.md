@@ -53,7 +53,7 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 | ------------------------------------------------------------ | --------------------------------------------------------------------------- | ---------------------------------------- |
 | 🌐 **[Portfolio Website](https://github.com/Hussein-dev256/portfolio-website)** | My personal portfolio to showcase my skills and projects.                 | HTML, CSS, JavaScript                    |
 | 🖼️ **[Image Identification App](https://github.com/Hussein-dev256/ROI-Based-Image-ID-Android-App)** | A powerful application that leverages machine learning to identify objects within images with high accuracy. This project demonstrates my ability to integrate complex backend logic with an intuitive user interface to solve practical challenges. | Python, TensorFlow, Flask, React         |
-| 💡 **Project 3**                                             | A brief description of your third project. What makes it special?           | React, Node.js, MongoDB                  |
+| 💡 **E-Commerce App**                                             |IN PROGRESS- An e-commerce solution for business owners, they don't have to own it, they can install and kicksatart online business           | React, Node.js, MongoDB                  |
 
 ---
 
